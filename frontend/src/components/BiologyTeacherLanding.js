@@ -13,7 +13,7 @@ import {
 } from "react-icons/fi";
 import { 
   BiDna, 
-  BiMicroscope, 
+  BiTestTube, 
   BiBook, 
   BiLaptop 
 } from "react-icons/bi";
