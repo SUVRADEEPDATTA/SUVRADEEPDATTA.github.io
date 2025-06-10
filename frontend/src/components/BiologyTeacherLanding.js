@@ -196,7 +196,7 @@ const BiologyTeacherLanding = () => {
             ease: "easeInOut"
           }}
         >
-          <BiMicroscope size={50} />
+          <BiTestTube size={50} />
         </motion.div>
       </section>
 
